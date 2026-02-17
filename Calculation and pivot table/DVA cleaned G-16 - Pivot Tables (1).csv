@@ -1,0 +1,66 @@
+COUNTA of register,,,
+43354,,,
+,,,
+,,,
+register,AVERAGE of balance,,
+no,"$12,990,108",,
+yes,"$17,828,672",,
+Grand Total,"$13,552,267",,
+,,,
+,,,
+,,,
+AVERAGE of duration,,,
+258.199451,,,
+,,,
+,,,
+,,,
+register,COUNTA of register,,
+no,38317,,
+yes,5037,,
+Grand Total,43354,,
+,,,
+,,,
+,,,
+COUNTA of register,register,,
+poutcome,no,yes,Grand Total
+failure,9.54%,1.36%,10.90%
+N/A,74.26%,7.45%,81.71%
+other,3.42%,0.68%,4.09%
+success,1.17%,2.13%,3.30%
+Grand Total,88.38%,11.62%,100.00%
+,,,
+,,,
+,,,
+COUNTA of register,register,,
+Month,no,yes,Grand Total
+Apr,5.25%,1.25%,6.51%
+Aug,12.48%,1.52%,14.00%
+Dec,0.25%,0.21%,0.46%
+Feb,4.89%,0.97%,5.87%
+Jan,2.75%,0.31%,3.06%
+Jul,13.92%,1.35%,15.27%
+Jun,10.38%,1.21%,11.59%
+Mar,0.48%,0.56%,1.04%
+May,28.42%,2.05%,30.47%
+Nov,7.98%,0.90%,8.88%
+Oct,0.92%,0.69%,1.61%
+Sep,0.66%,0.58%,1.24%
+Grand Total,88.38%,11.62%,100.00%
+,,,
+,,,
+,,,
+COUNTA of register,register,,
+Job,no,yes,Grand Total
+Admin,10.12%,1.41%,11.53%
+Blue-Collar,19.84%,1.56%,21.40%
+Entrepreneur,2.99%,0.27%,3.25%
+Housemaid,2.51%,0.24%,2.76%
+Management,18.37%,2.89%,21.26%
+N/A,0.33%,0.04%,0.37%
+Retired,3.83%,1.12%,4.95%
+Self-Employed,3.13%,0.42%,3.55%
+Services,8.43%,0.81%,9.24%
+Student,1.27%,0.52%,1.79%
+Technician,15.08%,1.88%,16.96%
+Unemployed,2.48%,0.46%,2.94%
+Grand Total,88.38%,11.62%,100.00%
