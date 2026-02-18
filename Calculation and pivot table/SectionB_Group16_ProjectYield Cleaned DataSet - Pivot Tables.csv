@@ -1,0 +1,42 @@
+COUNTA of Register,,,,,,,,,,,,,,
+43354,,,,,,,,,,,COUNTA of Register,Register,,
+,,,,,,,,,,,month,FALSE,TRUE,Grand Total
+,,,,,COUNTA of Register,Register,,,,,apr,5.35%,0.92%,6.27%
+register,AVERAGE of balance,,,,Education,FALSE,TRUE,Grand Total,,,aug,12.17%,1.64%,13.81%
+no,"$12,990,108",,,,Primary,6260,591,6851,,,dec,0.26%,0.23%,0.49%
+yes,"$17,828,672",,,,Secondary,20752,2450,23202,,,feb,4.77%,1.34%,6.11%
+Grand Total,"$13,552,267",,,,Tertiary,11305,1996,13301,,,jan,2.75%,0.48%,3.24%
+,,,,,Grand Total,38317,5037,43354,,,jul,14.03%,1.17%,15.19%
+,,,,,,,,,,,jun,10.72%,1.11%,11.83%
+,,,,,,,,,,,mar,0.77%,0.25%,1.02%
+AVERAGE of duration,,,,,,,,,,,may,28.45%,2.76%,31.21%
+258.199451,,,,,Housing loan,COUNTA of Housing loan,,,,,nov,8.19%,0.79%,8.98%
+,,,,,FALSE,19044,,,,,oct,0.62%,0.58%,1.19%
+,,,,,TRUE,24310,,,,,sep,0.30%,0.35%,0.65%
+,,,,,Grand Total,43354,,,,,Grand Total,88.38%,11.62%,100.00%
+Register,COUNTA of Register,,,,,,,,,,,,,
+FALSE,38317,,,,,,,,,,,,,
+TRUE,5037,,,,Personal loan,COUNTA of Personal loan,,,,,COUNTA of Register,Register,,
+Grand Total,43354,,,,FALSE,36243,,,,,Job,FALSE,TRUE,Grand Total
+,,,,,TRUE,7111,,,,,Admin,10.12%,1.41%,11.53%
+,,,,,Grand Total,43354,,,,,Blue-Collar,19.84%,1.56%,21.40%
+,,,,,,,,,,,Entrepreneur,2.99%,0.27%,3.25%
+,Register,,,,,,,,,,Housemaid,2.51%,0.24%,2.76%
+,FALSE,TRUE,Grand Total,,Account Type,COUNTA of Account Type,,,,,Management,18.37%,2.89%,21.26%
+COUNTA of Register,88.38%,11.62%,100.00%,,Existing Customer,7044,,,,,N/A,0.33%,0.04%,0.37%
+,,,,,New Customer,36310,,,,,Retired,3.83%,1.12%,4.95%
+,,,,,Grand Total,43354,,,,,Self-Employed,3.13%,0.42%,3.55%
+Job,COUNTA of Job,,,,,,,,,,Services,8.43%,0.81%,9.24%
+Admin,5000,,,,,,,,,,Student,1.27%,0.52%,1.79%
+Blue-Collar,9278,,,,,,,,,,Technician,15.08%,1.88%,16.96%
+Entrepreneur,1411,,,,,,,,,,Unemployed,2.48%,0.46%,2.94%
+Housemaid,1195,,,,,,,,,,Grand Total,88.38%,11.62%,100.00%
+Management,9216,,,,,,,,,,,,,
+N/A,161,,,,,,,,,,,,,
+Retired,2145,,,,,,,,,,,,,
+Self-Employed,1540,,,,,,,,,,,,,
+Services,4004,,,,,,,,,,,,,
+Student,775,,,,,,,,,,,,,
+Technician,7355,,,,,,,,,,,,,
+Unemployed,1274,,,,,,,,,,,,,
+Grand Total,43354,,,,,,,,,,,,,
